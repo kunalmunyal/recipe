@@ -1,7 +1,9 @@
 Best Pizza
 Ingredients
-1. pre-made crust
-2. pizza sauce
+1. 
+pre-made crust
+2. 
+pizza sauce
 3. cheese
 green peppers
 mushrooms
@@ -11,3 +13,7 @@ Directions
 1. Spread pizza sauce evenly over the crust 
 2. Shread cheese
 3. EAT
+
+
+
+Bake at 350F
